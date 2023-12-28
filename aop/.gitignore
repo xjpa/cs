@@ -1,0 +1,9 @@
+*
+!*/
+!*.c
+!*.cpp
+!*.org
+!*.md
+!*.png
+!*.gitignore
+test.cpp
